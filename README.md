@@ -1,3 +1,5 @@
+<img src="https://github.com/austinnoronha/AWS-Docker-Simple-Wesbite/blob/main/images/docker-aws-flow-diagram-2.png" width="500"/>
+
 # AWS-Docker-Simple-Wesbite
  
 This is a simple repo to undertand the use of Docker Containerization using a simple website that will run on NGINX and be deployed on AWS using ECS services
@@ -6,6 +8,8 @@ This is a simple repo to undertand the use of Docker Containerization using a si
 Package Software into Standardized Units for Development, Shipment and Deployment.
 
 A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
+
+<image src="https://github.com/austinnoronha/AWS-Docker-Simple-Wesbite/blob/main/images/docker-containerized-appliction-example-1.png" border="0" width="400"/>
 
 # AWS
 
