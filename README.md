@@ -17,6 +17,7 @@ A Docker container image is a lightweight, standalone, executable package of sof
 - Create an EC2 Ubuntu instance with port 22 for ssh open
 - SSH to the instancce
 - Crete a project dir and cretae a simple HTML to display 
+- Create a <a href="https://github.com/austinnoronha/AWS-Docker-Simple-Wesbite/blob/main/dockerfile">dockerfile</a> with the project and OS info
 
 __Run CMD__
 
