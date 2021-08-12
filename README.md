@@ -2,7 +2,7 @@
 
 # AWS-Docker-Simple-Wesbite
  
-This is a simple repo to undertand the use of Docker Containerization using a simple website that will run on NGINX and be deployed on AWS using ECS services
+This is a simple repo to understand the use of Docker Containerization using a simple website that will run on NGINX and be deployed on AWS using ECS services
 
 ## What is Docker containerization?
 Package Software into Standardized Units for Development, Shipment and Deployment.
